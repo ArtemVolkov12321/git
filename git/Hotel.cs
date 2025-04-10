@@ -12,6 +12,5 @@ namespace git
         public string Name { get; set; }
         public int CountOfStars { get; set; }
         public string HotelImage { get; set; }
-        C
     }
 }
